@@ -5,7 +5,7 @@
 	"env": {
 		"EMAIL": {
 			"description": "peer2profit email",
-			"value": "pkt1qzjhnfe8sfrwk3pynldwe7pmsjfhkdfadsqpyqx",
+			"value": "pJpHEgGCc7JzhRk9N9eK8oz5Hr8YKC47tB",
             "required": true
 		}
 	},
